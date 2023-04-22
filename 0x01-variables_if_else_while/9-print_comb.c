@@ -2,6 +2,8 @@
  * File: 9-print_comb.c
  */
 
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 
 /**
